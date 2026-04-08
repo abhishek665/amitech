@@ -1,0 +1,52 @@
+{
+  "courses": [
+    {
+      "title": "Python Course",
+      "category": "Programming",
+      "description": "Learn Python from scratch",
+      "price": "₹1999",
+      "image": "assets/img/gallery/featured1.png",
+      "whatsapp": "https://wa.me/91XXXXXXXXXX"
+    },
+    {
+      "title": "Beginner Python Course",
+      "category": "Programming",
+      "description": "Learn Python from scratch",
+      "price": "₹1999",
+      "image": "assets/img/gallery/featured1.png",
+      "whatsapp": "https://wa.me/91XXXXXXXXXX"
+    },
+    {
+      "title": "Java Course",
+      "category": "Programming",
+      "description": "Learn Python from scratch",
+      "price": "₹1999",
+      "image": "assets/img/gallery/featured1.png",
+      "whatsapp": "https://wa.me/91XXXXXXXXXX"
+    },
+    {
+      "title": "Data Engineer Course",
+      "category": "Programming",
+      "description": "Learn Python from scratch",
+      "price": "₹1999",
+      "image": "assets/img/gallery/featured1.png",
+      "whatsapp": "https://wa.me/91XXXXXXXXXX"
+    },
+    {
+      "title": "AI/ML Course",
+      "category": "Programming",
+      "description": "Learn Python from scratch",
+      "price": "₹1999",
+      "image": "assets/img/gallery/featured1.png",
+      "whatsapp": "https://wa.me/91XXXXXXXXXX"
+    },
+    {
+      "title": "Devops",
+      "category": "Software",
+      "price": "2000",
+      "description": "abcd",
+      "image": "/assets/img/uploads/screenshot-from-2026-04-04-16-52-55.png",
+      "whatsapp": "wa.me/91"
+    }
+  ]
+}
